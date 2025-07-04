@@ -40,15 +40,15 @@
 
 <p>
   <a href="https://www.instagram.com/db_sxor/">
-    <img src="https://img.shields.io/badge/-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
   <a href="mailto:goqkTk1986@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=Gmail&logoColor=white">
   </a>
   <a href="mailto:jty_419@naver.com">
-    <img src="https://img.shields.io/badge/-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
+    <img src="https://img.shields.io/badge/-03C75A?style=flat&logo=Naver&logoColor=white">
   </a>
   <a href="https://discord.com/users/626771000532533290">
-    <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
+    <img src="https://img.shields.io/badge/-5865F2?style=flat&logo=Discord&logoColor=white">
   </a>
 </p>
