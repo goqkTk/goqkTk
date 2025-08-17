@@ -42,13 +42,12 @@
   <a href="https://www.instagram.com/db_sxor/">
     <img src="https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white">
   </a>
-  <a href="mailto:goqkTk1986@gmail.com">
-    <img src="https://img.shields.io/badge/-EA4335?style=flat&logo=Gmail&logoColor=white">
-  </a>
-  <a href="mailto:jty_419@naver.com">
-    <img src="https://img.shields.io/badge/-03C75A?style=flat&logo=Naver&logoColor=white">
-  </a>
   <a href="https://discord.com/users/626771000532533290">
     <img src="https://img.shields.io/badge/-5865F2?style=flat&logo=Discord&logoColor=white">
   </a>
+</p>
+<p></p>
+<p>
+  goqkTk1986@gmail.com<br>
+  jty_419@naver.com
 </p>
